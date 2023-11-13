@@ -1,10 +1,14 @@
 *{
     background-color: white;
 }
+.cabecera{
+    display: flex;
+}
 
 .logo{
-    size: small;
-
+    height: 100px;
+    width: 100px;
+    flex: 2;
 }
 
 .menu{
@@ -29,10 +33,17 @@
 }
 
 .menusupI{
-    
+    flex: 0.5;
 }
 .newslet{
-
+    text-align: center;
+}
+.menuheader{
+    display: flex;
+}
+.menuheader li{
+    flex: 2;
+    text-align: center;
 }
 .menuhorizosup{
     
