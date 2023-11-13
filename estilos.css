@@ -1,0 +1,39 @@
+*{
+    background-color: white;
+}
+
+.logo{
+    size: small;
+
+}
+
+.menu{
+    display: flex;
+}
+
+.flex2{
+    display: flex;
+}
+
+.submenu{
+    display:none;
+    background-color: #fcfcec;
+    font-style: "Verdana";
+    list-style: none;
+}
+
+.menu ul li:hover .submenu{
+    display: block;
+    background-color: #000000;
+    color: white;
+}
+
+.menusupI{
+    
+}
+.newslet{
+
+}
+.menuhorizosup{
+    
+}
