@@ -32,6 +32,32 @@
     color: white;
 }
 
+.eropaniño{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.efoto{
+    flex:3;
+    width: 40vh;
+    height: 40vh;
+    text-align: center;
+}
+
+.enombresropa{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.eprendas{
+    flex:3;
+    justify-content: space-around;
+    margin: 10px;
+    text-align: center;
+}
+
 .menusupI{
     flex: 0.5;
 }
